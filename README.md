@@ -1,3 +1,5 @@
+ACM Hackathon Team (in alphabetical order): Anubhav Sharma, Aritra Raychaudhuri, Manav Somani, Tanay Mittal
+
 # Resurface.AI
 
 The right save at the right time, resurfacing it.
